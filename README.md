@@ -1,2 +1,3 @@
 # Cat_Gallery_Page
-First html web project
+Hi!
+This is my first ever Html web project!
