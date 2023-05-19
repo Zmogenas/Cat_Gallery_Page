@@ -1,0 +1,16 @@
+footer{
+    text-align: center;
+    color: white;
+}
+
+
+footer a{
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px dotted white;
+    transition: 0.3s;
+}
+
+footer a:hover{
+    border-color: transparent;
+}
